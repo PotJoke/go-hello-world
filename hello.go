@@ -15,7 +15,7 @@ func main() {
 	tools.WaitForEnter()
 
 	tools.ClearScreen()
-	fmt.Print(`Пока она умеет немного, я в основном разбирался \n
+	fmt.Print(`Пока она умеет немного, я в основном разбирался
 	с дурацкими импортами итд`)
 	tools.WaitForEnter()
 
@@ -28,3 +28,4 @@ func main() {
 	fmt.Println("Что ж, жду тебя в следующих релизах")
 	tools.WaitForEnter()
 }
+
